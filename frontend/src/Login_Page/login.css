@@ -1,0 +1,28 @@
+.login_test{
+  /*height: 600px;*/
+  font-size: 50px;
+  text-align: left;
+  width: fit-content;
+  margin: 100px auto;
+}
+
+.login_sub{
+  border-radius: 32px;
+  border: 2px solid #D16587;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  position:relative;
+  top: 5px;
+  background-color: #D16587;
+  font-family: 'NationalBold', sans-serif !important;
+  width: 100px;
+  z-index: 10px;
+  margin-left: 50px;
+}
+    
+.login_sub:hover {
+  color: #D16587;
+  background-color: white;
+  border: 2px solid #D16587;
+}

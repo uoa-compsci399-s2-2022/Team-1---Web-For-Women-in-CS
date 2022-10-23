@@ -1,0 +1,147 @@
+.project-card-title {
+  width: auto;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-family: 'NationalBold', sans-serif !important;
+  color: #4a4c4c;
+}
+
+.project-card-title:hover {
+  text-decoration: underline solid #4a4c4c;
+}
+
+.project_body {
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.project_body1 {
+  max-width: 1138px;
+  margin: 0 auto;
+}
+
+.title_project {
+  margin: auto;
+  margin-top: 10%;
+  font-size: 2.8rem;
+  color: #00467f;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 1em;
+}
+
+.card_project {
+  margin-top: 10px;
+}
+
+.project-btn {
+  position: relative;
+  z-index: 10;
+  bottom: 30px;
+  left: 22px;
+  margin-right: 10px;
+}
+
+.subtitle_p {
+  font-size: 1.44rem;
+  text-align: center;
+  margin: auto;
+  margin-top: 1.72rem;
+  max-width: 52rem;
+  font-size: 25px;
+  color: #373a3c;
+  font-weight: bolder;
+  padding-bottom: 1rem;
+  float: none;
+}
+
+.edit {
+  border-radius: 32px;
+  border: 2px solid #D16587;
+  font-size: 18px;
+  color: #D16587;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+  bottom: 30px;
+  left: 10px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'NationalBold', sans-serif !important;
+  width: 100px;
+  font-weight: bolder;
+}
+
+.edit:hover {
+  border: 2px solid rgb(255, 255, 255);
+  background-color: #D16587;
+  color: rgb(255, 255, 255);
+  box-shadow: none;
+}
+
+.delete {
+  border-radius: 32px;
+  border: 2px solid #D16587;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+  bottom: 30px;
+  left: 20px;
+  background-color: #D16587;
+  font-family: 'NationalBold', sans-serif !important;
+  width: 100px;
+  font-weight: bolder;
+}
+
+
+.delete:hover {
+  color: #D16587;
+  background-color: white;
+  margin-bottom: -30px;
+}
+
+.btnCombo {
+  display: flex;
+  width: 100%;
+  align-content:space-between;
+  z-index: 2;
+  margin-left: 1%;
+  height: 1px;
+
+}
+
+.project_every_card{
+  display: none;
+  margin: 0 30px 18px 30px;
+}
+
+.project_card_show_more_button{
+  border-radius: 32px;
+  border: 2px solid #D16587;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  background-color: #D16587;
+  font-family: 'NationalBold', sans-serif !important;
+  width: 130px;
+  height: 40px;
+  z-index: -1;
+}
+
+.project_card_show_more_button:hover{
+  color: #D16587;
+  background-color: white;
+}
+
+.project_card_show_more_button1{
+  text-align: center;
+  display: block;
+}
+
+.project_add{
+  margin-left: 30px;
+}
+

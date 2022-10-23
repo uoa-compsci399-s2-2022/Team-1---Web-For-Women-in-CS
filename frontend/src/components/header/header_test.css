@@ -1,0 +1,109 @@
+.border{
+  border: 1px solid red;
+}
+
+.header_lg_total{
+  box-shadow: 0 2px 4px rgb(0 0 0 / 30%);
+  height: 80px;
+  margin-bottom: 45px;
+}
+
+.header_lg_img{
+  z-index: 10;
+}
+
+.uoa_header_lg_logo{
+  width: 100px;
+  height: 100px;
+  margin-right: 50px;
+}
+
+.header_lg_menu{
+  margin-left: 10px;
+  border: 1px solid rgb(255, 255, 255);
+  font-weight: bolder;
+  color: #00467f;
+}
+
+.navbar-toggler-icon {
+  color: #00467f;
+}
+
+.header_lg_menu_word{
+  margin-left: 17px;
+  font-size: smaller;
+  font-weight:light;
+  width: fit-content;
+  color: #00467f;
+}
+
+.header_lg_search_icon{
+  font-size: 30px;
+  color: #00467f;
+}
+
+.header_lg_search_word{
+  color: #00467f;
+  font-size: small;
+  margin-left: -10px;
+}
+
+.header_lg_search_function{
+  margin-right: 10px;
+}
+
+.header_lg_title{
+  width: 500px;
+  height: 80px;
+  margin-top: -32px;
+  margin-left: -32px;
+  background-color: #00467f;
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  font-size: 25px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.header_lg_Offcanvas_Header{
+  margin-right: -10px;
+}
+
+
+
+.Offcanvas_body{
+  margin-top: -20px;
+}
+
+.offcanvas-header .btn-close {
+  color: white;
+  position: absolute;
+  top: 25px;
+  left: 350px;
+}
+
+.offcanvas-header{
+  display: flex;
+  align-items: none;
+  justify-content: none;
+  padding:0;
+  margin-top: -16px;
+  margin-left: 16px;
+  margin-right: -16px;
+}
+
+.btn-close {
+  margin-top: 300px;
+}
+
+.header_lg_nav_list{
+  border-bottom: 1px solid #bec3c4;
+  margin-left: -16px;
+  margin-right: -32px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.header_botton_down:hover{
+  color:  #0080a7;
+}

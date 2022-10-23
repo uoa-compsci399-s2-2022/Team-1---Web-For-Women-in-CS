@@ -1,0 +1,61 @@
+.projects_edit_title{
+    margin: auto;
+    margin-top: 10%;
+    font-size: 2.8rem;
+    color: #00467f;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 1em;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.projects_edit_element{
+    width: 500px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    font-family: 'NationalBold', sans-serif !important;
+    color: #00467f;
+}
+
+.projects_edit_body{
+    display:grid;
+    align-items: center;
+    width: 50%;
+    margin-left: 40%;
+    margin-top: 2%;
+
+}
+
+.projects_edit_link{
+    margin-left: 30%;
+    margin-top: 2%;
+    font-size: 20px;
+}
+
+.projects_edit_btn{
+    border-radius: 32px;
+    border: 2px solid #00467f;
+    font-size: 18px;
+    color: #00467f;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+    bottom: 30px;
+    left: 10px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'NationalBold', sans-serif !important;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 5%;
+
+}
+
+.projects_edit_btn:hover{
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #00467f;
+    color: rgb(255, 255, 255);
+    box-shadow: none;
+}
+

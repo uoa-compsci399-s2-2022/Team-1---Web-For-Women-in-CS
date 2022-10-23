@@ -1,0 +1,54 @@
+.img1{
+  height: 350px;
+}
+
+.header_ppt_data{
+  width: fit-content;
+  float: right;
+  margin-top: -30px;
+  position:relative;
+}
+
+.header_ppt_data_days{
+  display: inline-block;
+  width: 60px;
+}
+
+.header_ppt_data_hour{
+  display: inline-block;
+  width: 60px;
+  margin-left: 2px;
+}
+
+.header_ppt_data_minute{
+  display: inline-block;
+  width: 60px;
+  margin-left: 2px;
+}
+
+.header_ppt_data_second{
+  display: inline-block;
+  width: 60px;
+  margin-left: 2px;
+}
+
+.header_ppt_data_num{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(138, 36, 255);
+  color: white;
+  border-radius: 19px;
+  height: 50px;
+  font-weight: bolder;
+  font-size: 20px;
+  opacity: 0.9;
+
+}
+
+.header_ppt_data_word{
+  font-size:10px;
+  text-align: center;
+  font-weight: bolder;
+  color: rgb(138, 36, 255);
+}

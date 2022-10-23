@@ -1,0 +1,126 @@
+.title_p1{
+    margin-top: 4%;
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    color: #D16587;
+    font-weight: bolder;
+    font-family: 'NationalBold', sans-serif;
+    line-height: 1em;
+
+  }
+  .subtitle_p1{
+    max-width: 70%;
+    margin-bottom: 1.72rem;
+    font-size: 1.3rem;
+    color: #747778;
+    font-weight: bolder;
+    font-family: 'NationalBold', sans-serif;
+    line-height: 1.2em;
+    margin-top: -20px;
+  }
+  
+
+  .project1_body{
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
+  
+  .project1_body1{
+    max-width: 1142px;
+    margin: 0 auto;
+  }
+
+  .subtitle_project1{
+    display: block;
+    font-size: 1.44rem;
+    color: #00467f;
+    position: relative;
+    padding-bottom: 1.2rem;
+    margin-bottom: 1.38rem;
+    font-weight: bolder;
+    line-height: 1.1;
+    max-width: auto;
+  }
+
+  .hr_project1{
+    margin-top: -10px;
+    padding-right: 0.555rem;
+    padding-left: 0.555rem;
+    float: left;
+    width: 5%;
+  }
+
+  .project1_text{
+    margin-top:0;
+    margin-bottom: 2rem;
+
+    line-height: 1.25;
+    color: #747778;
+    font-size: 1.5625rem;
+  }
+
+  b{
+    font-family:'sans-serif';
+    font-weight: normal;
+  }
+
+
+
+  h3{
+    font-family: 'NationalBold', sans-serif;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 1.25rem;
+
+  }
+
+
+.projectlist{
+    color: #00467f !important; 
+    font-size: 1rem;
+    max-width: 600px;
+    margin-left: -34px;
+}
+
+
+.projectlink{
+    text-decoration: underline;
+}
+
+.projectlink:hover{
+    text-decoration: none;
+    border-bottom: 2px solid #3f90d3;
+    margin-top: -10px;
+}
+
+.project_content{
+  margin-top:0;
+  color: #4a4c4c;
+  margin-bottom: 2rem;
+  max-width: 50%;
+  font-size: 1.4rem;
+  font-family: 'NationalBold', sans-serif;
+
+
+
+}
+
+.pro_single_edit{
+  border-radius: 32px;
+  border: 2px solid #00467f;
+  font-size: 18px;
+  color: #00467f;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+  bottom: 30px;
+  left: 10px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'NationalBold', sans-serif !important;
+  width: 100px;
+  font-weight: bolder;
+}
+

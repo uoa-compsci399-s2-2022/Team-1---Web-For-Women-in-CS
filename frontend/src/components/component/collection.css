@@ -1,0 +1,21 @@
+.overlay{
+    position:absolute;
+    margin-top: 300px;
+    align-items: center;
+    background:rgba(0,128,167,0.9);
+    font-size: 40px;
+    text-align: center;
+    line-height:245px;
+    color: aliceblue;
+    z-index: 1;
+    transition:transform 250ms, opacity 400ms;
+}
+
+.collection{
+    max-width: 100%;
+    z-index: 1;
+}
+
+.collection_cover{
+    object-fit: cover;
+}

@@ -1,0 +1,312 @@
+.header_body{
+  min-height: 165px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 15%);
+  margin-bottom: 50px;
+}
+
+.header{
+  max-width: 1200px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: -67px;
+  
+}
+
+.header1{
+  max-width: 1220px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: -67px;
+  margin: 0 33.99px;
+  display: flex;
+  align-content: space-between
+}
+
+.search{
+  float: right;
+  margin-top: 20px;
+  text-align: right;
+  margin-left: 50px;
+}
+
+.total_botton{
+  margin-left: 27px;
+  margin-top: -10px;
+  font-weight: lighter;
+
+}
+
+div{
+  margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+
+.header_botton{
+  display: inline-block;
+  margin-right:60px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  border-bottom: 4px solid #f2f2f2;
+}
+
+.header_botton:hover{
+  border-bottom: 4px solid #00467f;
+}
+
+
+.header_botton1{
+  display: inline-block;
+  margin-right:50px;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 4px solid white;
+}
+
+.header_botton1:hover{
+  border-bottom: 4px solid #00467f;
+}
+
+.header_botton2{
+  display: inline-block;
+  margin-right:40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 4px solid white;
+}
+
+.header_botton2:hover{
+  border-bottom: 4px solid #00467f;
+}
+
+.header_botton_top{
+  color: #00467f;
+}
+
+
+.header_botton_down{
+  color: #00467f;
+  font-weight: bolder;
+  border-bottom: 4px solid none;
+}
+
+.header_botton_down1{
+  color: #00467f;
+  font-weight: bolder;
+  border-bottom: 4px solid #f2f2f2;
+}
+
+
+
+.top_apply{
+  padding-top: 10px;
+  height: 38px;
+  font-weight: 600;
+  font-size: small;
+  color: white;
+  background: #0080a7;
+}
+
+.top_apply_detail{
+  width: fit-content;
+  margin: 0 auto;
+  height: 16px;
+}
+
+.top_apply_detail:hover{
+  border-bottom: 1px solid white;
+}
+
+.href1{
+  color: white;
+  text-decoration: none;
+}
+
+.href1:hover{
+  color: white;
+}
+
+.uoa_header_logo{
+  width: 140px;
+  display: inline-block;
+  margin-left: 4px;
+ 
+}
+
+.header_search_text{
+  height: 50px;
+  width: 310px;
+  font-size: 20px;
+}
+
+input{
+  outline-style: none;
+  border: 1px solid rgb(196, 196, 196);
+  padding: 15px;
+}
+
+input::placeholder {
+  color: rgb(182, 182, 182);
+  font-style:oblique;
+  font-size: 17px;
+}
+
+
+.search_function{
+  margin-top: -18px;
+}
+
+.search_bottom{
+  display: inline-block;
+  border: 1px solid #00467f;
+  height: 50px;
+  width: 55px;
+  vertical-align: bottom;
+  background: #00467f;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+.search_icon{
+  font-size: 25px;
+  margin-top: 11px;
+}
+
+.search_bottom:hover{
+  background-color: #0080a7;
+  border-color: #0080a7;
+}
+
+.bottom{
+  color: #00467f;
+  display: inline-block;
+  font-size: 18px;
+  margin-top: 5px;
+  font-weight: bolder;
+
+}
+
+.bottom:hover{
+  color: #0080a7;
+
+}
+
+.contact_us{
+  margin-left: 60px;
+  margin-bottom: 35px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+.top_bgc{
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 80px;
+}
+
+.header_list1{
+  width: 100%;
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.header_list2{
+  max-width: 1182px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.small_list1{
+  float: right;
+  font-size: 15px;
+  margin-top: 7px;
+}
+
+.color_style{
+  color: #00467f;
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 47px;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.color_style:hover{
+
+  color: #00467f;
+}
+
+.color_style1{
+  color: #00467f;
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 40px;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.color_style1:hover{
+
+  color: #00467f;
+}
+
+.color_style2{
+  color: #00467f;
+  display: inline-block;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.color_style2:hover{
+
+  color: #00467f;
+}
+
+.color_style3{
+  color: white;
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 60px;
+  margin-right: 90px;
+}
+
+.color_style3:hover{
+  border-bottom: 1px solid #00467f;
+}
+
+.science{
+  color: #00467f;
+  display: inline-block;
+  font-size: 15px;
+  margin-top: 7px;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.science:hover{
+  border-bottom: 4px solid #00467f;
+  color: #00467f;
+}
+
+
+.href{
+  color: #00467f;
+  text-decoration: none;
+}
+
+.href:hover{
+  color: #0080a7;
+}

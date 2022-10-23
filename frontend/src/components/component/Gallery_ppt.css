@@ -1,0 +1,15 @@
+.img{
+  height: 600px;
+  z-index: -22;
+  object-fit: cover;
+}
+
+.Gallery_ppt{
+  width:100%;
+  z-index: 1;
+  left: 0px;
+  max-height: 600px;
+  margin-top: -49px;
+
+
+}

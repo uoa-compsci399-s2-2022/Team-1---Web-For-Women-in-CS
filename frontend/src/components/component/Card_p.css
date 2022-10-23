@@ -1,0 +1,23 @@
+.cardtext{
+    font-size: 16px;
+    font-family: 'NationalBook', sans-serif !important;
+    max-width: 1100px;
+    min-height: 80px;
+    color: #757778;
+    font-weight: 600;
+}
+
+.project-padding {
+    padding: 30px 0;
+  }
+
+.project-grid {
+    display: grid;
+    grid-gap: 5px;
+   }
+
+.maincard:hover .title_p{
+    text-decoration: underline !important;
+    color: #D16587;
+ 
+}

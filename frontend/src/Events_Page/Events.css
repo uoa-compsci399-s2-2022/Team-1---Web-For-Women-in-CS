@@ -1,0 +1,161 @@
+.events_body {
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.events_body1 {
+  max-width: 1132.02px;
+  margin: 0 auto;
+}
+.event_card_img{
+  height: 134.5px;
+  vertical-align: middle;
+
+}
+ img{
+  width:100%;
+  height: 100%;
+}
+
+.info_2 {
+  margin: 50px -2px;
+  margin-top: 100px;
+}
+.eventsBtn{
+ 
+    margin-top: 30px;
+    display: flex;
+    width: fit-content;
+    align-content:space-between;
+    margin-left: 35px;
+    margin-bottom: 20px;
+  
+}
+
+.events_show_botton {
+  border: 1px solid #D16587;
+  text-decoration: none;
+  color: #D16587;
+  width: 140px;
+  border-width: 2px;
+  border-radius: 32px;
+  padding: 7px 10px;
+}
+
+.events_show_botton:hover {
+  color: white;
+  background-color: #D16587;
+}
+@media screen and (max-width: 1050px){
+  .event-grid{
+      grid-template-columns: repeat(2, 1fr)!important;
+      grid-gap: 25px;
+      max-width: 800px;
+  }
+  .events{
+    padding-left:10%;
+    padding-right:10%;
+  }
+  .home_bottom_card{
+    padding-left:5%;
+    padding-right:5%;
+  }
+}
+
+@media screen and (max-width: 760px) {
+.event-grid {
+  grid-template-columns: repeat(1, 1fr)!important;
+  max-width:380px;
+}
+.events{
+  width: fit-content;
+  margin: 0 auto;
+  padding: 0;
+}
+.home_bottom_card{
+  padding-left:5%;
+  padding-right:5%;
+}
+}
+
+@media screen and (max-width: 430px) {
+  .home_bottom_card{
+    padding-left:0;
+    padding-right:0;
+  }
+}
+
+.event-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 18px;
+  min-width: 360px;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+}
+.event_card{
+  box-shadow: 0 1px 3px #0000001f, 0 1px 2px #0000003d;
+  display: none;
+  max-width: 269px;
+}
+
+.event_card_show_more_button{
+  border-radius: 32px;
+  border: 2px solid #D16587;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  background-color:#D16587;
+  font-family: 'NationalBold', sans-serif !important;
+  width: 130px;
+  height: 40px;
+  z-index: -1;
+}
+
+.event_card_show_more_button:hover{
+  color: #D16587;
+  background-color: white;
+}
+
+.event_card_show_more_button1{
+  text-align: center;
+  display: block;
+}
+.events_card_title{
+  font-weight: 700;
+    font-size: 21px;
+    margin:14px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-end: 0px;
+    color:#00467f;
+    
+}
+.events_card_title:hover{
+  text-decoration: underline 2px solid #00467f;
+
+}
+.events_card_time{
+  font-size: 17px;
+    margin: 0 14px;
+    text-align: left;
+    line-height: normal;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-end: 0px;
+    color:#3880ff;
+    
+}
+.events_card_info{
+  font-size: 17px;
+    margin:14px;
+    text-align: left;
+    line-height: 100%;
+    display: block;
+ 
+   
+    font-family: 'NationalBold', sans-serif !important;
+}
