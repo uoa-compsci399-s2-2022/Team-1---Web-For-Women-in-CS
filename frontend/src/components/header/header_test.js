@@ -50,7 +50,7 @@ function OffcanvasExample() {
       {[false].map((expand) => (
         <Navbar key={expand} bg="light" expand={expand} className="mb-3">
           <Container fluid>
-            <div>
+            <div className='header_lg_ofcan_totol'>
               <Navbar.Toggle className='header_lg_menu'/>
               <div className='header_lg_menu_word'>MENU</div>
             </div>

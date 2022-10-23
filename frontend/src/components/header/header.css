@@ -310,3 +310,7 @@ input::placeholder {
 .href:hover{
   color: #0080a7;
 }
+
+.container-fluid{
+  margin-bottom: -30px;
+}
