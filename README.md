@@ -1,4 +1,4 @@
-# Project: A website for women in the School of Computer Science at the UoA
+# Project: A website for women in the School of Computer Science at the UoA - Team 200 OK
 
 ## Project Management tool
 [Link]
