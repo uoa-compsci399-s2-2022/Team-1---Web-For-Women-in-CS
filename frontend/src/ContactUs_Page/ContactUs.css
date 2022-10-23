@@ -17,6 +17,9 @@
     font-weight: bolder;
     font-family: 'NationalBold', sans-serif;
   }
+  b{
+    font-family: 'NationalBold', sans-serif;
+  }
 
   .current_link{
     margin-top: 20px;
