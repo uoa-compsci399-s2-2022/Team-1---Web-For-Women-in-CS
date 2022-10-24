@@ -73,9 +73,9 @@ General user:
 5. Users can click on different links on the resource page to jump to different websites.
 
 Admin user:
-1. User need an account to log in.
+1. User need an account to log in. (Username: admin, Password: 399admin)
 2. User can click on the 'add' button to add events/ news/ research projects/ staff details/ PhD student details on the corresponding page.
-3. User can click on the 'edit' button to edit the corresponding events/ news/ research projects/ staff details/ PhD student details.
+3. User can click on the 'edit' button to edit the corresponding events/ news/ research projects/ staff details/ PhD student details.( Please note when editing data, the photo must be selected again to successfully edit the data.)
 4. User can delete the events, news, research projects, staff details, PhD student details by clicking on the 'delete' button. 
 5. These changes will be saved immediately after the 'submit' or the 'delete' button is clicked. 
 
