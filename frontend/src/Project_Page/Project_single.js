@@ -44,6 +44,10 @@ const ProjectSingle = props => {
         })
     }
 
+    useEffect(()=>{
+        window.scrollTo(0,0);
+    },[])
+
     return (
         <div className='page_total'>
             <Col className="d-none d-xxl-block d-xl-block">

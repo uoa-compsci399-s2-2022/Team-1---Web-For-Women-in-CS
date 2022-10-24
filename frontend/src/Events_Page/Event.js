@@ -40,6 +40,10 @@ const Event = props => {
             window.location.reload()
         })
     }
+
+    useEffect(()=>{
+        window.scrollTo(0,0);
+    },[])
     
     return(
         <div className='page_total'>
