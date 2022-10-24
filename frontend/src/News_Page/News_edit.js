@@ -46,6 +46,11 @@ function NewsEdit(){
         ])
         .catch(error => console.log(error))
     }, [])
+
+    useEffect(()=>{
+        window.scrollTo(0,0);
+    },[])
+    
     return(
         <div>
             <Col className="d-none d-xxl-block d-xl-block">
