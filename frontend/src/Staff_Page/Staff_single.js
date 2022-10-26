@@ -64,7 +64,7 @@ const Staff = props => {
             <p>{staffrole}</p>
             <span>{staffintro}</span><br/><br/>
 
-            <p className='emailtext'>Email: <a href="mailto:{staffemail}" className="emailLink">{staffemail}</a></p>
+            <p className='emailtext'>Email: <a href={`mailto:${staffemail}`}className="emailLink">{staffemail}</a></p>
 
  
 			<div className='wrapper'>
